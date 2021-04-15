@@ -1,0 +1,27 @@
+﻿// Made in NPC Maker by BowieD
+GUID 209192e21ab44684bd14e097a493c8ff
+ID 1340
+Type NPC
+Shirt 1015
+Pants 1016
+Mask 1017
+Backpack 203
+Has_Christmas_Outfit True
+Christmas_Shirt 230
+Christmas_Pants 231
+Christmas_Vest 597
+Christmas_Hat 239
+Has_Halloween_Outfit True
+Halloween_Shirt 558
+Halloween_Pants 559
+Halloween_Hat 560
+Primary 20106
+Secondary 97
+Equipped Primary
+Face 3
+Beard 0
+Hair 0
+Color_Skin #B87F3E
+Color_Hair #191919
+Pose Stand
+Dialogue 1368

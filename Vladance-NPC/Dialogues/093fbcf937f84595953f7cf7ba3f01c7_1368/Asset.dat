@@ -1,0 +1,24 @@
+﻿// Made in NPC Maker by BowieD
+GUID 093fbcf937f84595953f7cf7ba3f01c7
+Type Dialogue
+ID 1368
+Messages 1
+Message_0_Pages 1
+Message_0_Prev 1368
+Responses 6
+Response_0_Vendor 1369
+Response_1_Vendor 1365
+Response_1_Conditions 1
+Response_1_Condition_0_Type Reputation
+Response_1_Condition_0_Value -400
+Response_1_Condition_0_Logic Less_Than_Or_Equal_To
+
+Response_2_Vendor 1366
+Response_3_Vendor 4243
+Response_3_Conditions 1
+Response_3_Condition_0_Type Reputation
+Response_3_Condition_0_Value -10000
+Response_3_Condition_0_Logic Less_Than_Or_Equal_To
+
+Response_4_Vendor 1375
+Response_5_Vendor 1376
