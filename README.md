@@ -8,7 +8,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1798842708
 you can reupload it but first edit it.
 other than that IDRC what you do
 
--lots of love,壊れた(Kowa)#1182
-
-My bot community                                   
-https://discord.com/invite/zxRszSE
+-lots of love,Seraph
